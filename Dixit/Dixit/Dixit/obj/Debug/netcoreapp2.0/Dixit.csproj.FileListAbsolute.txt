@@ -1,0 +1,11 @@
+C:\HobbyProjects\Dixit\Dixit\Dixit\bin\Debug\netcoreapp2.0\Dixit.deps.json
+C:\HobbyProjects\Dixit\Dixit\Dixit\bin\Debug\netcoreapp2.0\Dixit.runtimeconfig.json
+C:\HobbyProjects\Dixit\Dixit\Dixit\bin\Debug\netcoreapp2.0\Dixit.runtimeconfig.dev.json
+C:\HobbyProjects\Dixit\Dixit\Dixit\bin\Debug\netcoreapp2.0\Dixit.dll
+C:\HobbyProjects\Dixit\Dixit\Dixit\bin\Debug\netcoreapp2.0\Dixit.pdb
+C:\HobbyProjects\Dixit\Dixit\Dixit\obj\Debug\netcoreapp2.0\Dixit.csprojResolveAssemblyReference.cache
+C:\HobbyProjects\Dixit\Dixit\Dixit\obj\Debug\netcoreapp2.0\Dixit.csproj.CoreCompileInputs.cache
+C:\HobbyProjects\Dixit\Dixit\Dixit\obj\Debug\netcoreapp2.0\Dixit.AssemblyInfoInputs.cache
+C:\HobbyProjects\Dixit\Dixit\Dixit\obj\Debug\netcoreapp2.0\Dixit.AssemblyInfo.cs
+C:\HobbyProjects\Dixit\Dixit\Dixit\obj\Debug\netcoreapp2.0\Dixit.dll
+C:\HobbyProjects\Dixit\Dixit\Dixit\obj\Debug\netcoreapp2.0\Dixit.pdb
